@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Penilaian Muka</string>
+    <string name="keren">Keren Dong</string>
+    <string name="ba">Biasa Aja</string>
+    <string name="hint">Klik pada salah satu tombol, untuk menilai, kemudian akan tampil penjelasannya</string>
+</resources>
